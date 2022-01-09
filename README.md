@@ -1,0 +1,2 @@
+# wordle
+solving wordle problem
